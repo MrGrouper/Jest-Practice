@@ -1,0 +1,25 @@
+{
+  "name": "jest-practice",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "jest",
+    "watch": "jest --watch *.js" 
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrGrouper/Jest-Practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MrGrouper/Jest-Practice/issues"
+  },
+  "homepage": "https://github.com/MrGrouper/Jest-Practice#readme",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
